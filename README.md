@@ -1,7 +1,15 @@
-Hà Hoàng Hưng - Sinh viên trường Đại học Công nghệ Thông tin UIT
-Ngày sinh: 10-06-2007
-Giới tính: Nam
-Quê quán: Quy Nhơn, Gia Lai
-Liên hệ: 0354800714
-Sở thích: Games, vẽ, đọc sách
-Thông tin: là sinh viên trường Đại học Công nghệ thông tin UIT, theo ngành Khoa học máy tính với định hướng trở thành nhà phát triển game trong tương lai.
+/index.html
+/style.css
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jiankang Deng | Imperial College London</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+<div class="content">
+<h1><span class="name">Jiankang</span> Deng</h1>
+<h2 class="title">Assistant Professor at Imperial College London</h2>
